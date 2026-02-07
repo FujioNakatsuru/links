@@ -4,11 +4,7 @@ This page is a simple hub for my online presence.
 
 ---
 
-## Main
-
-* **Games Archive**
-  A record of games I’ve streamed or played.
-  [https://fujionakatsuru.github.io/stream-log/](https://fujionakatsuru.github.io/stream-log/)
+## Watch
 
 * **Twitch**
   Live streams and past broadcasts.
@@ -16,7 +12,15 @@ This page is a simple hub for my online presence.
 
 ---
 
-## Other Links
+## Record
+
+* **Games Archive**
+  A record of games I’ve streamed or played.
+  [https://fujionakatsuru.github.io/stream-log/](https://fujionakatsuru.github.io/stream-log/)
+
+---
+
+## Elsewhere
 
 * **YouTube**
   Stream archives and playlists.
