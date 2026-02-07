@@ -2,9 +2,6 @@
 
 This page is a simple hub for my online presence.
 
-I stream and play story-rich, exploration-focused, and challenging games,
-and keep quiet records of what I’ve played or streamed.
-
 ---
 
 ## Main
